@@ -7,15 +7,15 @@ version_scheme = "no-guess-dev"
 local_scheme = "no-local-version"
 
 [project]
-name = "henryzord_pythonPackages"
+name = "LuizRoberto777_pythonPackages"
 dynamic = ["version"]
-description = "Um pacote de rolagem de dados para jogos de RPG"
+description = "Um pacote de rolagem de dados para jogos de FPS :)"
 readme = "README.md"
 requires-python = ">=3.9"
 license = {text = "MIT"}
 
 authors = [
-    {name = "Henry Cagnini"}
+    {name = "Luiz Roberto"}
 ]
 
 classifiers = [
@@ -26,4 +26,4 @@ classifiers = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/CTISM-Prof-Henry/pythonPackages"
+Homepage = "https://github.com/LuizRoberto777/pythonPackages"
